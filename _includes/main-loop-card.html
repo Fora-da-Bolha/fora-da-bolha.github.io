@@ -14,7 +14,23 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		{{ post.date | date: '%b %d, %Y' }}
+		{{ post.date | date: '%d de ' }}
+		{% assign month = post.date | date: "%-b" %}
+		{% case month %}
+			{% when 'Jan' %}{{'janeiro'}}
+			{% when 'Feb' %}{{'fevereiro'}}
+			{% when 'Mar' %}{{'março'}}
+			{% when 'Apr' %}{{'abril'}}
+			{% when 'May' %}{{'maio'}}
+			{% when 'Jun' %}{{'junho'}}
+			{% when 'Jul' %}{{'julho'}}
+			{% when 'Aug' %}{{'agosto'}}
+			{% when 'Sep' %}{{'setembro'}}
+			{% when 'Oct' %}{{'outubro'}}
+			{% when 'Nov' %}{{'novembro'}}
+			{% when 'Dec' %}{{'dezembro'}}
+		{% endcase %}
+		{{ post.date | date: 'de %Y' }}
 	</small>
 </div>
 {% if post.image %}

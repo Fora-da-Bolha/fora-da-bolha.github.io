@@ -39,7 +39,23 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                 </span>
         </small>
         <small class="text-muted">
-            {{ latest_post.date | date: '%b %d, %Y' }}
+            {{ latest_post.date | date: '%d de ' }}
+        		{% assign month = latest_post.date | date: "%-b" %}
+        		{% case month %}
+        			{% when 'Jan' %}{{'janeiro'}}
+        			{% when 'Feb' %}{{'fevereiro'}}
+        			{% when 'Mar' %}{{'março'}}
+        			{% when 'Apr' %}{{'abril'}}
+        			{% when 'May' %}{{'maio'}}
+        			{% when 'Jun' %}{{'junho'}}
+        			{% when 'Jul' %}{{'julho'}}
+        			{% when 'Aug' %}{{'agosto'}}
+        			{% when 'Sep' %}{{'setembro'}}
+        			{% when 'Oct' %}{{'outubro'}}
+        			{% when 'Nov' %}{{'novembro'}}
+        			{% when 'Dec' %}{{'dezembro'}}
+        		{% endcase %}
+        		{{ latest_post.date | date: 'de %Y' }}
         </small>
     </div>
     </div>
@@ -70,7 +86,23 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>
                     </small>
                     <small class="text-muted">
-                        {{ second_post.date | date: '%b %d, %Y' }}
+                      {{ second_post.date | date: '%d de ' }}
+                      {% assign month = second_post.date | date: "%-b" %}
+                      {% case month %}
+                        {% when 'Jan' %}{{'janeiro'}}
+                        {% when 'Feb' %}{{'fevereiro'}}
+                        {% when 'Mar' %}{{'março'}}
+                        {% when 'Apr' %}{{'abril'}}
+                        {% when 'May' %}{{'maio'}}
+                        {% when 'Jun' %}{{'junho'}}
+                        {% when 'Jul' %}{{'julho'}}
+                        {% when 'Aug' %}{{'agosto'}}
+                        {% when 'Sep' %}{{'setembro'}}
+                        {% when 'Oct' %}{{'outubro'}}
+                        {% when 'Nov' %}{{'novembro'}}
+                        {% when 'Dec' %}{{'dezembro'}}
+                      {% endcase %}
+                      {{ second_post.date | date: 'de %Y' }}
                     </small>
                 </div>
             </div>
@@ -97,7 +129,23 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>
                     </small>
                     <small class="text-muted">
-                        {{ third_post.date | date: '%b %d, %Y' }}
+                      {{ third_post.date | date: '%d de ' }}
+                      {% assign month = third_post.date | date: "%-b" %}
+                      {% case month %}
+                        {% when 'Jan' %}{{'janeiro'}}
+                        {% when 'Feb' %}{{'fevereiro'}}
+                        {% when 'Mar' %}{{'março'}}
+                        {% when 'Apr' %}{{'abril'}}
+                        {% when 'May' %}{{'maio'}}
+                        {% when 'Jun' %}{{'junho'}}
+                        {% when 'Jul' %}{{'julho'}}
+                        {% when 'Aug' %}{{'agosto'}}
+                        {% when 'Sep' %}{{'setembro'}}
+                        {% when 'Oct' %}{{'outubro'}}
+                        {% when 'Nov' %}{{'novembro'}}
+                        {% when 'Dec' %}{{'dezembro'}}
+                      {% endcase %}
+                      {{ third_post.date | date: 'de %Y' }}
                     </small>
                 </div>
             </div>
@@ -124,7 +172,23 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         </span>
                     </small>
                     <small class="text-muted">
-                        {{ fourth_post.date | date: '%b %d, %Y' }}
+                      {{ fourth_post.date | date: '%d de ' }}
+                      {% assign month = fourth_post.date | date: "%-b" %}
+                      {% case month %}
+                        {% when 'Jan' %}{{'janeiro'}}
+                        {% when 'Feb' %}{{'fevereiro'}}
+                        {% when 'Mar' %}{{'março'}}
+                        {% when 'Apr' %}{{'abril'}}
+                        {% when 'May' %}{{'maio'}}
+                        {% when 'Jun' %}{{'junho'}}
+                        {% when 'Jul' %}{{'julho'}}
+                        {% when 'Aug' %}{{'agosto'}}
+                        {% when 'Sep' %}{{'setembro'}}
+                        {% when 'Oct' %}{{'outubro'}}
+                        {% when 'Nov' %}{{'novembro'}}
+                        {% when 'Dec' %}{{'dezembro'}}
+                      {% endcase %}
+                      {{ fourth_post.date | date: 'de %Y' }}
                     </small>
                 </div>
             </div>
