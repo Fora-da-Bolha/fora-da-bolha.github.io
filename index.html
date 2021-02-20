@@ -32,7 +32,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     </p>
     <div>
         <small class="d-block text-muted">
-            In <span class="catlist">
+            <span class="catlist">
                 {% for category in latest_post.categories %}
                 <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
@@ -79,7 +79,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
+                        <span class="catlist">
                         {% for category in second_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -122,7 +122,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
+                        <span class="catlist">
                         {% for category in third_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -165,7 +165,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
+                        <span class="catlist">
                         {% for category in fourth_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -246,7 +246,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
             {% if paginator.total_pages > 1 %}
             <ul class="pagination">
               {% if paginator.previous_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Página anterior</a></li>
               {% else %}
                 <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
               {% endif %}
@@ -262,7 +262,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
               {% endfor %}
 
               {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima página &raquo;</a></li>
               {% else %}
                 <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
               {% endif %}

@@ -7,7 +7,6 @@ baseurl: ''
 disqus: 'demowebsite'
 email: 'geral@foradabolha.pt'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-timezone: Europe/Lisbon
 
 include: ["_pages"]
 permalink: /:title/
@@ -24,23 +23,23 @@ authors:
       name:           César Caldeira
       site:           https://www.wowthemes.net
       avatar:         assets/images/authors/cesarcaldeira.jpg
-      bio:            "Este é o César"
-      email:          cesar@foradabolha.pt
+      bio:            "Estudante de ciência política e relações internacionais na Universidade Católica Portuguesa. Ex-aluno de engenharia informática na FCUL e Sheffield Hallam University. Gosta de chá."
+      email:          cesar.caldeira@foradabolha.pt
       twitter:        https://twitter.com/wowthemesnet
 
     anareis:
       name:           Ana Reis
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
+      bio:            "Estudante de matemática no Instituto Superior Técnico. Estudou na Universidade de Bristol. Gosta de chá."
+      email:          ana.reis@foradabolha.pt
       twitter:        https://twitter.com/wowthemesnet
 
     beatrizrosado:
       name:           Beatriz Rosado
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      bio:            "Estudante de ciência política e relações internacionais na Universidade Católica Portuguesa. Ex-aluna de direito na Universidade Nova de Lisboa. Não gosta de chá."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
