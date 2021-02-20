@@ -20,18 +20,26 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    cesar:
+    cesarcaldeira:
       name:           César Caldeira
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/authors/cesarcaldeira.jpg
       bio:            "Este é o César"
       email:          cesar@foradabolha.pt
       twitter:        https://twitter.com/wowthemesnet
 
-    jane:
-      name:           Jane
+    anareis:
+      name:           Ana Reis
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+
+    beatrizrosado:
+      name:           Beatriz Rosado
+      site:           https://www.wowthemes.net
+      avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
