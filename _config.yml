@@ -18,6 +18,14 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
+edicao:
+    abr20:
+      link:           edicoes/abr2020.html
+      name:           Polarização
+      date:           Abril de 2020
+      cover:          assets/images/logo.jpg
+      descricao:      Primeira edição do Fora da Bolha! Nesta edição tratamos a polarização.
+
 authors:
     equipa:
       name:           Equipa FB
