@@ -2,7 +2,7 @@
 title: "Sobre nós"
 layout: page-sidebar
 permalink: "/sobre.html"
-image: "/assets/images/camara-eco.jpeg"
+image: "/assets/images/sobre.jpg"
 comments: false
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+Este site merece um grande agradecimento ao <i class="fa fa-heart text-danger"></i> Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/) , que disponibilizou gratuitamente o código que foi utilizado gratuitamente para criar este site.

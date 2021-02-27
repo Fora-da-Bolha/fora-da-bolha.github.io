@@ -1,8 +1,8 @@
 # Site
 name: 'Fora da Bolha'
 description: 'Esta é a descrição do nosso pequeno site. Still working on things.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/foradabolha.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'geral@foradabolha.pt'
@@ -19,27 +19,36 @@ plugins:
   - jekyll-seo-tag
 
 authors:
+    equipa:
+      name:           Equipa FB
+      site:           https://www.foradabolha.pt/sobre
+      avatar:         assets/images/logo.jpg
+      bio:            "Autor para publicação de posts gerais"
+      email:          geral@foradabolha.pt
+      twitter:        https://twitter.com/wowthemesnet
+      facebook:       https://twitter.com/wowthemesnet
+
     cesarcaldeira:
       name:           César Caldeira
       site:           https://www.wowthemes.net
       avatar:         assets/images/authors/cesarcaldeira.jpg
-      bio:            "Estudante de ciência política e relações internacionais na Universidade Católica Portuguesa. Ex-aluno de engenharia informática na FCUL e Sheffield Hallam University. Gosta de chá."
+      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
       email:          cesar.caldeira@foradabolha.pt
       twitter:        https://twitter.com/wowthemesnet
 
     anareis:
       name:           Ana Reis
       site:           https://www.wowthemes.net
-      avatar:         assets/images/avatar2.jpg
-      bio:            "Estudante de matemática no Instituto Superior Técnico. Estudou na Universidade de Bristol. Gosta de chá."
+      avatar:         assets/images/authors/anareis.jpg
+      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
       email:          ana.reis@foradabolha.pt
       twitter:        https://twitter.com/wowthemesnet
 
-    beatrizrosado:
-      name:           Beatriz Rosado
+    evandrobreia:
+      name:           Evandro Breia
       site:           https://www.wowthemes.net
-      avatar:         assets/images/avatar2.jpg
-      bio:            "Estudante de ciência política e relações internacionais na Universidade Católica Portuguesa. Ex-aluna de direito na Universidade Nova de Lisboa. Não gosta de chá."
+      avatar:         assets/images/authors/evandrobreia.jpg
+      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
