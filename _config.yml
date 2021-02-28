@@ -28,6 +28,7 @@ edicao:
 authors:
     equipa:
       name:           Equipa FB
+      link:           equipa
       site:           https://www.foradabolha.pt/sobre
       avatar:         assets/images/logo.jpg
       bio:            "Autor para publicação de posts gerais"
@@ -37,6 +38,7 @@ authors:
 
     cesarcaldeira:
       name:           César Caldeira
+      link:           cesar-caldeira
       site:           https://www.wowthemes.net
       avatar:         assets/images/authors/cesarcaldeira.jpg
       bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
@@ -45,6 +47,7 @@ authors:
 
     anareis:
       name:           Ana Reis
+      link:           ana-reis
       site:           https://www.wowthemes.net
       avatar:         assets/images/authors/anareis.jpg
       bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
@@ -53,6 +56,7 @@ authors:
 
     evandrobreia:
       name:           Evandro Breia
+      link:           evandro-breia
       site:           https://www.wowthemes.net
       avatar:         assets/images/authors/evandrobreia.jpg
       bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
