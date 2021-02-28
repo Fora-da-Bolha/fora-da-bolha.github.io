@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: \404.html
+permalink: \algo.html
 ---
 # Erro 404
 Oh não, erro 404 não. Erro 404 aparece sempre nas piores alturas.

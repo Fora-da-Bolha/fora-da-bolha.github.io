@@ -20,11 +20,10 @@ plugins:
 
 edicao:
     abr20:
-      link:           edicoes/abr2020.html
+      link:           abr2020
       name:           Polarização
-      date:           Abril de 2020
-      cover:          assets/images/logo.jpg
-      descricao:      Primeira edição do Fora da Bolha! Nesta edição tratamos a polarização.
+      date:           "Abril de 2020"
+      image:          assets/images/logo.jpg
 
 authors:
     equipa:
