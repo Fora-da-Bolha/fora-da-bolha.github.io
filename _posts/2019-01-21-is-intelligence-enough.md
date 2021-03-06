@@ -5,13 +5,16 @@ author: cesarcaldeira
 categories: [ Exemplo, Temporário ]
 image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
 tags: [recomendados, capa]
+edicao: abr20
 ---
 Este artigo é meramente um exemplar de como os vários artigos podem vir a ficar. Basicamente, a ideia é demonstrar as
 várias funcionalidades do Jekyll e como pode ficar o artigo. Assim sendo, vou agora mostrar como ficaria uma citação
 no texto.
 
 > But what is the difference between literature and journalism?
-...Journalism is unreadable and literature is not read. That is all. - Oscar Wilde
+...Journalism is unreadable and literature is not read. That is all. [^1]
+
+[^1]: Oscar Wilde
 
 De seguida, vamos ver como fica uma lista ordenada:
 
@@ -40,7 +43,7 @@ if blog == COOL {
 
 Aproveito e mostro como ficam os [links](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
-[^1]: Isto é o que aparece no footnote. É bastante funcional e dá para voltar a onde isto está escrito.
+
 
 Aproveito e digo que dá para definir palavras.
 
@@ -51,11 +54,13 @@ Os videos de YouTube ficam assim:
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></div>
 
-Também temos separadores como esta linha cinzenta debaixo deste texto, e aproveito e deixo aqui um footnote. [^1]
+Também temos separadores como esta linha cinzenta debaixo deste texto, e aproveito e deixo aqui um footnote. [^2]
+
+[^2]: Isto é o que aparece no footnote. É bastante funcional e dá para voltar a onde isto está escrito.
 
 ---
 
-Se quisermos apresentar alguma tabela, fica assim (ainda não está terminado):
+Se quisermos apresentar alguma tabela, fica assim (ainda não está terminado, mas já funciona relativamente bem):
 
 | Partido X | Partido Y |
 | ----------- | ----------- |
@@ -64,6 +69,26 @@ Se quisermos apresentar alguma tabela, fica assim (ainda não está terminado):
 
 ---
 
+# Este é o maior subtítulo que dá para fazer
+
 The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
 
+## Segundo tamanho de títulos
+
 We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+
+### Terceiro tamanho de títulos
+
+The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+
+#### Quarto...
+
+The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+
+##### Quinto (mesmo tamanho que a fonte normal)
+
+The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+
+###### Sexto (demasiado pequeno)
+
+The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?

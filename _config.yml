@@ -6,7 +6,7 @@ favicon: 'assets/images/foradabolha.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'geral@foradabolha.pt'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://foradabolha.us1.list-manage.com/subscribe/post?u=555cdcf38ad1e128145f9cfa2&amp;id=c8f76676fa'
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,10 +20,11 @@ plugins:
 
 edicao:
     abr20:
-      link:           abr2020
-      name:           Polarização
+      link:           abril-2020
+      name:           "Polarização"
       date:           "Abril de 2020"
-      image:          assets/images/logo.jpg
+      image:          assets/images/covers/abr20.jpg
+      description:    "Esta edição é sobre a polarização. Go figure. Este texto é só um exemplo de como ficaria a descrição de uma dada edição. Pode estar aqui escrito o que quisermos, I guess."
 
 authors:
     equipa:
@@ -71,8 +72,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: equipa
+      comments: false
 
   # all pages
   - scope:
