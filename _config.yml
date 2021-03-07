@@ -26,43 +26,54 @@ edicao:
       image:          assets/images/covers/abr20.jpg
       description:    "Esta edição é sobre a polarização. Go figure. Este texto é só um exemplo de como ficaria a descrição de uma dada edição. Pode estar aqui escrito o que quisermos, I guess."
 
+
 authors:
     equipa:
       name:           Equipa FB
       link:           equipa
       site:           https://www.foradabolha.pt/sobre
       avatar:         assets/images/logo.jpg
-      bio:            "Autor para publicação de posts gerais"
+      bio:            "Autor para publicação de posts gerais."
       email:          geral@foradabolha.pt
-      twitter:        https://twitter.com/wowthemesnet
-      facebook:       https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com/foradabolhablog
+      facebook:       https://facebook.com/foradabolha.pt
 
     cesarcaldeira:
       name:           César Caldeira
       link:           cesar-caldeira
-      site:           https://www.wowthemes.net
+      site:           linkedin.com/in/cesarmcs
       avatar:         assets/images/authors/cesarcaldeira.jpg
       bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
-      email:          cesar.caldeira@foradabolha.pt
-      twitter:        https://twitter.com/wowthemesnet
 
     anareis:
       name:           Ana Reis
       link:           ana-reis
-      site:           https://www.wowthemes.net
       avatar:         assets/images/authors/anareis.jpg
       bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
-      email:          ana.reis@foradabolha.pt
-      twitter:        https://twitter.com/wowthemesnet
 
     evandrobreia:
       name:           Evandro Breia
       link:           evandro-breia
-      site:           https://www.wowthemes.net
       avatar:         assets/images/authors/evandrobreia.jpg
       bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+
+    fredericocarvalho:
+      name:           Frederico Carvalho
+      link:           frederico-carvalho
+      avatar:         assets/images/logo.jpg
+      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
+
+    pedrosilva:
+      name:           Pedro Silva
+      link:           pedro-silva
+      avatar:         assets/images/logo.jpg
+      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
+
+    beatrizrosado:
+      name:           Beatriz Rosado
+      link:           beatriz-rosado
+      avatar:         assets/images/logo.jpg
+      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
 
 # Defaults
 defaults:
