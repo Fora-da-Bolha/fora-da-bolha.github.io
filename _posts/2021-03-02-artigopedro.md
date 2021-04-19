@@ -1,94 +1,27 @@
 ---
 layout: post
-title:  "Artigo do Pedro"
+title:  "Felizmente isto não é a América"
 author: pedrosilva
-categories: [ Matemática , Estados Unidos ]
+categories: [ Eleições , Estados Unidos ]
 image: assets/images/posts/xadrez.jpg
 tags: [recomendados]
-edicao: abr20
----
-Este artigo é meramente um exemplar de como os vários artigos podem vir a ficar. Basicamente, a ideia é demonstrar as
-várias funcionalidades do Jekyll e como pode ficar o artigo. Assim sendo, vou agora mostrar como ficaria uma citação
-no texto.
-
-> But what is the difference between literature and journalism?
-...Journalism is unreadable and literature is not read. That is all. [^1]
-
-[^1]: Oscar Wilde
-
-De seguida, vamos ver como fica uma lista ordenada:
-
-1. Este é o primeiro ponto;
-2. Seguido do segundo;
-3. E do terceiro, para acabar...
-
-As listas não ordenadas ficam assim:
-
-- Este é o primeiro ponto;
-- Seguido do segundo;
-- E do terceiro, para acabar...
-
-Se por alguma razão quisermos mostrar um pouco de código (sim, também conseguimos satisfazer os cromos),
-podemos fazê-lo, e fica assim:
-
-`if FORADABOLHA.PT is COOL then AWESOME`
-
-Ou assim:
-
-```
-if blog == COOL {
-  display("Awesome!!!");
-}
-```
-
-Aproveito e mostro como ficam os [links](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
-
-
-
-Aproveito e digo que dá para definir palavras.
-
-Bolha
-: 1. Apego excessivo ou obsessivo a uma ideia ou intenção.
-
-Os videos de YouTube ficam assim:
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></div>
-
-Também temos separadores como esta linha cinzenta debaixo deste texto, e aproveito e deixo aqui um footnote. [^2]
-
-[^2]: Isto é o que aparece no footnote. É bastante funcional e dá para voltar a onde isto está escrito.
-
+edicao: abr21
 ---
 
-Se quisermos apresentar alguma tabela, fica assim (ainda não está terminado, mas já funciona relativamente bem):
+Como muitas outras coisas, a conversa sobre polarização em Portugal é uma importação americana. Isto não significa que não exista, nalgum sentido, uma tendência de polarização na política portuguesa – mas para não transportarmos análises para onde elas não encaixam, é útil olhar com atenção para a situação nos Estados Unidos e tentar deslaçar o que são particularidades de um país muito particular do que pode ser uma janela para o nosso futuro.
 
-| Partido X | Partido Y |
-| ----------- | ----------- |
-| 20.000 | 30.000 |
-| 40% | 60% |
+Nos  Estados  Unidos,  as  atuais  divisões  políticas  nasceram  das  revoluções  sociais  dos  anos  60, implantaram-se com a afirmação de uma visão reacionária dentro do Partido Republicano nos anos 80 e 90 e atingiram novos expoentes graças à tecnologia do século XXI. No entanto, parte da culpa remonta  ao  século  XVIII  e  recai  sobre  o  próprio  desenho  do  governo  federal.  Congressistas  e senadores são eleitos em círculos unipessoais e em quase todos os casos por simples maioria relativa, o que ajuda a cimentar o bipartidarismo e torna a representação de qualquer minoria política muito difícil. Para além disso, cada estado tem a mesma representação no Senado, tenha 40 milhões ou 600 mil habitantes. Um sistema tão desproporcional e que faz depender a representação democrática da geografia podia fazer sentido na América de 1776, mas afigura-se anacrónico num país onde as identidades políticas e sociais se constroem cada vez mais a nível nacional.
 
----
+Em segundo lugar, cabe a cada estado decidir sobre o desenho dos círculos eleitorais. Assim, o sistema permite que políticos escolham os seus eleitores, uma inversão perversa do processo democrático que se tornou incomportável desde que é tecnologicamente possível analisar dados censitários a nível granular.  Com  a  multiplicação  de  distritos  eleitorais  desenhados  ao  pormenor  para  eliminar  a competição entre partidos, muitos congressistas passaram a representar distritos onde o seu partido tem vitória garantida, e, portanto, a temer apenas ser ultrapassados pelo flanco em primárias.
 
-# Este é o maior subtítulo que dá para fazer
+**IMAGEM**
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+Eleições de 2012 para a Câmara dos Representantes no estado da Carolina do Norte. Os distritos eleitorais foram desenhados pelo governo estadual, controlado pelos republicanos. Resultado: o Partido Democrata teve 50.6% dos votos, mas só ganhou 4 dos 13 distritos (a azul); com 48.8% dos votos, o Partido Republicano ganhou os restantes 9 lugares (a vermelho).
 
-## Segundo tamanho de títulos
+Outra agravante é o modo como a política é financiada. A doutrina americana dita que as empresas são pessoas e que o dinheiro é discurso constitucionalmente protegido. Tentativas de reforma para impedir empresas e outros interesses organizados de intervir em eleições, sem limitações na recolha de fundos nem no acesso à comunicação social, esbarraram no Supremo Tribunal. Face a campanhas cada vez mais caras, o centro do poder eleitoral desloca-se cada vez mais para os candidatos que conseguem mobilizar fundos – se não por extraordinária capacidade de atração mediática, só por proximidade a essas redes de interesses.
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+O  efeito  destas  distorções  no  espetro  político  não  é  simétrico.  Nas  últimas  décadas,  o  Partido Republicano tem sido indiscutivelmente favorecido pelo sistema e tem conseguido disputar maiorias em Washington sem nunca ter de competir por uma maioria dos votos a nível nacional. Uma minoria a tentar manter um poder injustamente alcançado só pode virar-se contra a democracia. Nos Estados Unidos, vemos isto e mais: validadas pelo seu poder eleitoral desproporcionado, as fações mais reacionárias da sociedade entraram em confronto não só com a democracia como com todas as instituições  onde  não  têm  a  mesma  influência  desmedida.  Hollywood,  televisão,  imprensa  e universidades  (enfim,  as  grandes  instituições  culturais  americanas),  tornadas  lentamente  mais urbanas, cosmopolitas e seculares, adotaram aos olhos da base rural e cristã do partido Republicano uma identidade política repugnante.
 
-### Terceiro tamanho de títulos
+Face ao suposto viés esquerdista das elites culturais de Harvard e do New York Times, houve quem propusesse criar equivalentes à direita – organizações com as mesmas regras deontológicas e o mesmo modelo de negócio, mas de pendor conservador. O que realmente foi nascendo, nomeadamente na televisão, foi a alternativa fácil: não instituições de referência, mas veículos de propaganda criados para as atacar, sem compromisso com os mesmos valores éticos. Hoje falamos do perigo das echo chambers nas redes sociais, mas os americanos viveram a primeira versão da fragmentação dos consumos mediáticos na televisão, ainda antes da omnipresença da internet.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
-
-#### Quarto...
-
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
-
-##### Quinto (mesmo tamanho que a fonte normal)
-
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
-
-###### Sexto (demasiado pequeno)
-
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+Como muitas outras coisas, a conversa sobre polarização em Portugal é uma importação americana. Isto não significa que não exista, nalgum sentido, uma tendência de polarização na política portuguesa – mas ainda vamos a tempo de aprender com o (mau) exemplo. Lembremo-nos da importância da representação  democrática  quando  aparecem  no  espaço  público  os  evangelistas  dos  círculos unipessoais, cura milagrosa para o nosso sistema eleitoral. Lembremo-nos que as bolhas não são todas iguais e têm diferentes graus de ligação à realidade. Tenhamos cuidado com os que atacam as instituições  democráticas  para  fazer  avançar  os  seus  interesses.  E  não  exageremos  nos  apelos moderadores para encontrar terreno comum, que pressupõem boa vontade de parte a parte. Face à mentira e ao ódio, nem quem está deste lado pode ceder para encontrar meios-termos, nem o jornalismo pode confundir imparcialidade com neutralidade.  

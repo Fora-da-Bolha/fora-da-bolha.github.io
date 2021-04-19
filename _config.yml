@@ -19,11 +19,11 @@ plugins:
   - jekyll-seo-tag
 
 edicao:
-    abr20:
-      link:           abril-2020
+    abr21:
+      link:           abril-2021
       name:           "Polarização"
-      date:           "Abril de 2020"
-      image:          assets/images/covers/abr20.jpg
+      date:           "Abril de 2021"
+      image:          assets/images/covers/abr21.png
       description:    "Esta edição é sobre a polarização. Go figure. Este texto é só um exemplo de como ficaria a descrição de uma dada edição. Pode estar aqui escrito o que quisermos, I guess."
 
 
@@ -32,7 +32,7 @@ authors:
       name:           Equipa FB
       link:           equipa
       site:           https://www.foradabolha.pt/sobre
-      avatar:         assets/images/logo.jpg
+      avatar:         assets/images/logo.png
       bio:            "Autor para publicação de posts gerais."
       email:          geral@foradabolha.pt
       twitter:        https://twitter.com/foradabolhablog
@@ -43,37 +43,31 @@ authors:
       link:           cesar-caldeira
       site:           linkedin.com/in/cesarmcs
       avatar:         assets/images/authors/cesarcaldeira.jpg
-      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
+      bio:            "Lisboeta de costela Arganilense. Estudante de ciência política e relações internacionais ao fim de três anos a descobrir o mundo do design de jogos, engenharia informática e do associativismo académico. Recentemente obcecado com xadrez. Eternamente viciado em chá. Militante da Juventude Social Democrata."
 
     anareis:
       name:           Ana Reis
       link:           ana-reis
       avatar:         assets/images/authors/anareis.jpg
-      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
-
-    evandrobreia:
-      name:           Evandro Breia
-      link:           evandro-breia
-      avatar:         assets/images/authors/evandrobreia.jpg
-      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
+      bio:            "Curiosa sobre o mundo, as pessoas e as suas ideias. De momento, estudante de Matemática no Instituto Superior Técnico."
 
     fredericocarvalho:
       name:           Frederico Carvalho
       link:           frederico-carvalho
-      avatar:         assets/images/logo.jpg
-      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
+      avatar:         assets/images/authors/fredericocarvalho.jpg
+      bio:            "Licenciado em Filosofia e mestrando em Filosofia Política na FCSH-UNL. Almadense insatisfeito por natureza e de uma esquerda naturalmente insatisfeita."
 
     pedrosilva:
       name:           Pedro Silva
       link:           pedro-silva
-      avatar:         assets/images/logo.jpg
-      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
+      avatar:         assets/images/authors/pedrosilva.jpg
+      bio:            "Estudante de matemática, pessoa de esquerda e passageiro frequente de cacilheiros. Nenhuma habilitação para escrever sobre política, mas tento na mesma."
 
-    beatrizrosado:
-      name:           Beatriz Rosado
-      link:           beatriz-rosado
-      avatar:         assets/images/logo.jpg
-      bio:            "Descrição lorem ipsum. Algo interessante aqui. Isto é um teste."
+    mateuscarvalho:
+      name:           Mateus Carvalho
+      link:           mateus-carvalho
+      avatar:         assets/images/authors/mateuscarvalho.jpg
+      bio:            "Alfacinha de 22 anos. Estagiário em Marketing, é licenciado em Economia pela Católica-Lisbon SBE. Do activismo pelos Direitos Humanos e por acção climática, foi parar à política partidária através do Volt em 2018, o qual descobriu ainda como movimento e ajudou a estabelecer em Portugal. Actualmente é Vice-Presidente da sua secção nacional, o Volt Portugal. Sente saudades de nadar."
 
 # Defaults
 defaults:
