@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Artigo do Frederico"
+title:  "Cuidado com a bullshit"
 author: fredericocarvalho
-categories: [ Matemática , Estados Unidos ]
-image: assets/images/posts/xadrez.jpg
+categories: [ Política , Populismo ]
+image: assets/images/posts/muralpolitics.jpg
 tags: [recomendados]
 edicao: abr21
 ---

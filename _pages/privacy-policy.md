@@ -18,7 +18,7 @@ Onde necessário, este site utiliza cookies para garantir a funcionalidade de ce
 
 #### Segurança
 
-O nosso site está armazenado nos servidores do Github, uma plataforma de desenvolvimento que permite armazenar gratuitamente websites estáticos. Podes verificar que temos o nosso certificado SSL em ordem, e conseguimos garantir a utilização do padrão HTTPS. No entanto, caso em algum momento o browser informe que a tua ligação não é segura, pedimos que nos envies um email a informar e que de desligues da ligação ao nosso site.
+O nosso site está armazenado nos servidores do Github, uma plataforma de desenvolvimento que permite armazenar gratuitamente websites estáticos. Podes verificar que temos o nosso certificado SSL em ordem, e conseguimos garantir a utilização do padrão HTTPS. No entanto, caso em algum momento o browser informe que a tua ligação não é segura, pedimos que nos envies um email a informar e que te desligues da ligação ao nosso site.
 
 #### Contactos
 

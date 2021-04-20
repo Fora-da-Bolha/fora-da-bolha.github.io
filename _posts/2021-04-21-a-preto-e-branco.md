@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Preto e Branco"
+title:  "A preto e branco"
 author: anareis
 categories: [ Política , Portugal ]
 image: assets/images/posts/parlamento.jpg

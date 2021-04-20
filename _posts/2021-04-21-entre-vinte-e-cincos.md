@@ -2,7 +2,7 @@
 layout: post
 title:  "Entre vinte e cincos"
 author: cesarcaldeira
-categories: [ Democracia , Portugal ]
+categories: [ História , Portugal ]
 image: assets/images/posts/lancamento.jpg
 tags: [recomendados]
 edicao: abr21

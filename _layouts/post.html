@@ -19,7 +19,7 @@ layout: default
                         {% if author.avatar %}
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
                         {% endif %}
-						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Seguir</a></span>
+						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{site.baseurl}}/autor/{{ author.link }}" class="btn btn-outline-success btn-sm btn-round ml-1">Autor</a></span>
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 						</small>
 					</div>
@@ -79,6 +79,7 @@ layout: default
 			</div>
 
             <!-- Mailchimp Subscribe Form -->
+						<!--
             {% if site.mailchimp-list %}
 			<div class="border p-5 bg-lightblue">
 				<div class="row justify-content-between">
@@ -103,7 +104,7 @@ layout: default
 				</div>
 			</div>
             {% endif %}
-
+-->
 
              <!-- Author Box -->
                 {% if page.author %}
