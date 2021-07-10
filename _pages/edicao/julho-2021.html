@@ -1,0 +1,26 @@
+---
+title: "Ciências e Tecnologia"
+layout: default
+permalink: "/edicao/julho-2021.html"
+---
+<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">{{page.title}}</h2>
+                <p class="text-uppercase font-weight-bold">{{ site.edicao.jul21.date }}</p>
+                <p class="excerpt">{{ site.edicao.jul21.description }}</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="{{ site.edicao.jul21.name }}" src="{{site.baseurl}}/{{ site.edicao.jul21.image }}" class="rounded-0" height=100% width=100%>
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Publicações nesta edição</span></h4>
+            {% assign posts = site.posts | where:"edicao","jul21" %}
+            {% for post in posts %}
+            {% include main-loop-card.html %}
+            {% endfor %}
+    </div>
+</div>
+</div>

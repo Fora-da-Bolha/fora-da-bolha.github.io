@@ -4,7 +4,7 @@ title:  "A preto e branco"
 author: anareis
 categories: [ Política , Portugal ]
 image: assets/images/posts/parlamento.jpg
-tags: [recomendados]
+tags: []
 edicao: abr21
 ---
 

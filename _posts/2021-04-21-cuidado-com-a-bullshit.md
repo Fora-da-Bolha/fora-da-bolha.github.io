@@ -4,7 +4,7 @@ title:  "Cuidado com a bullshit"
 author: fredericocarvalho
 categories: [ Política , Populismo ]
 image: assets/images/posts/muralpolitics.jpg
-tags: [recomendados]
+tags: []
 edicao: abr21
 ---
 

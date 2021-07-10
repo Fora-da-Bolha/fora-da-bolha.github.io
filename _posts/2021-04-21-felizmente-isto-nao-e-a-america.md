@@ -4,7 +4,7 @@ title:  "Felizmente isto não é a América"
 author: pedrosilva
 categories: [ Política , Estados Unidos ]
 image: assets/images/posts/marcelotrump.png
-tags: [recomendados]
+tags: []
 edicao: abr21
 ---
 

@@ -1,0 +1,19 @@
+I"�<p>Quando o então campeão mundial de xadrez Gary Kasparov viu 19.c4<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> no sexto e último jogo da sua segunda partida com o programa Deep Blue em 1997, soube que não tinha como escapar à derrota e renunciou <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>. Foi a primeira vez que um campeão do mundo perdeu uma partida com regras de torneio contra um computador, e com esta derrota o mundo do xadrez nunca mais seria dominado por um humano. Em 2016 foi a vez do jogo oriental Go, onde a inteligência artificial AlphaGo (da Google) derrotou o campeão mundial Lee Sedol<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>, e já em 2007 se tinha solucionado o jogo das damas em tabuleiros de oito por oito casas<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Peão avança para a casa c4. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Deixo aqui a anotação do jogo, para os curiosos: 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 h6 8.Nxe6 Qe7 9.0-0 fxe6 10.Bg6+ Kd8 11.Bf4 b5 12.a4 Bb7 13.Re1 Nd5 14.Bg3 Kc8 15.axb5 cxb5 16.Qd3 Bc6 17.Bf5 exf5 18.Rxe7 Bxe7 19.c4. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Recomendo vivamente verem o <a href="https://www.imdb.com/title/tt6700846/">documentário</a> sobre este jogo. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>Note-se que nem o xadrez nem o go são jogos solucionados. Aqui quem sai a ganhar não é uma inteligência artificial, mas sim uma base de dados com todas as jogadas possíveis, resultado de centenas de computadores a calcularem as mesmas ao longo de 18 anos. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

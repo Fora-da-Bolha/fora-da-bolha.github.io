@@ -4,7 +4,7 @@ title:  "Entre vinte e cincos"
 author: cesarcaldeira
 categories: [ História , Portugal ]
 image: assets/images/posts/lancamento.jpg
-tags: [recomendados]
+tags: []
 edicao: abr21
 ---
 

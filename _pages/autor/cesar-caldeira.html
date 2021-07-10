@@ -16,6 +16,7 @@ permalink: "/autor/cesar-caldeira.html"
                 <img alt="{{ site.authors.jane.name }}" src="{{site.baseurl}}/{{ site.authors.cesarcaldeira.avatar }}" class="rounded-circle" height=100% width=100%>
             </div>
         </div>
+        
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
             {% assign posts = site.posts | where:"author","cesarcaldeira" %}
             {% for post in posts %}

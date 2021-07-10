@@ -3,7 +3,7 @@ title: "Contactos"
 permalink: "/contactos.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form action="https://formspree.io/f/mayadyko" method="POST">    
 <p class="mb-4">Tens alguma dúvida, sugestão ou recomendação? Talvez queiras colaborar connosco? Entra em contacto com a nossa equipa! Tentaremos responder-te o mais cedo possível.</p>
 <div class="form-group row">
 <div class="col-md-6">

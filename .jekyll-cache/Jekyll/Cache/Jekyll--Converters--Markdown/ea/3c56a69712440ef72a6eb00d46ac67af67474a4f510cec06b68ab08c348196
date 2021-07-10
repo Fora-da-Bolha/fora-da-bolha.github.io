@@ -1,0 +1,22 @@
+I"�<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">{{page.title}}</h2>
+                <p class="text-uppercase font-weight-bold">{{ site.edicao.abr21.date }}</p>
+                <p class="excerpt">{{ site.edicao.abr21.description }}</p>
+            </div>
+            <div class="col-md-3 text-right">
+                &lt;img alt="{{ site.edicao.abr21.name }}" src="{{site.baseurl}}/{{ site.edicao.abr21.image }}" class="rounded-0" height=100% width=100%&gt;
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Publicações nesta edição</span></h4>
+            {% assign posts = site.posts | where:"edicao","abr21" %}
+            {% for post in posts %}
+            {% include main-loop-card.html %}
+            {% endfor %}
+    </div>
+</div>
+</div>
+:ET
