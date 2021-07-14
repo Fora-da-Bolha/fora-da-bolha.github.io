@@ -3,7 +3,7 @@ layout: post
 title:  "Covid-19: O longo caminho da ciência à política"
 author: giloliveira
 categories: [ Covid-19 , Ciência ]
-image: https://unsplash.com/photos/3udlqT2PpeU
+image: https://images.unsplash.com/photo-1600115174319-58b8cd30100c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80
 tags: [recomendados]
 edicao: jul21
 ---
