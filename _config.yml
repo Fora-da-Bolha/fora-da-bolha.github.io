@@ -19,12 +19,6 @@ plugins:
   - jekyll-seo-tag
 
 edicao:
-    abr21:
-      link:           abril-2021
-      name:           "Polarização"
-      date:           "Abril de 2021"
-      image:          assets/images/covers/abr21.png
-      description:    "Em estilo de introdução, a primeira edição é dedicada ao tema da polarização. Vivemos num mundo polarizado? As bolhas em que vivemos estão mais fechadas do que nunca? O que causa fenómenos de polarização? Como é que ela se manifesta na política e na sociedade? A polarização é uma coisa má?"
 
     jul21:
       link:           julho-2021
@@ -32,6 +26,15 @@ edicao:
       date:           "Julho de 2021"
       image:          assets/images/covers/jun21.png
       description:    "No último ano, todos viramos os olhos para a ciência à procura de explicações e de soluções para os nossos maiores problemas. Dedicamos esta edição aos vários desafios presentes e futuros da ciência e da sua útil companheira, a tecnologia. Desde as condições de trabalho dos investigadores às levantadas pela inteligência artificial."
+
+
+    abr21:
+      link:           abril-2021
+      name:           "Polarização"
+      date:           "Abril de 2021"
+      image:          assets/images/covers/abr21.png
+      description:    "Em estilo de introdução, a primeira edição é dedicada ao tema da polarização. Vivemos num mundo polarizado? As bolhas em que vivemos estão mais fechadas do que nunca? O que causa fenómenos de polarização? Como é que ela se manifesta na política e na sociedade? A polarização é uma coisa má?"
+
 
 authors:
     equipa:
